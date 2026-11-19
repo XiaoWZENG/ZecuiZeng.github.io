@@ -40,6 +40,26 @@ window.PORTFOLIO = {
   },
   "papers": [
     {
+      "id": "memrsi",
+      "short": "MemRSI",
+      "title": "MemRSI: Memory-Driven Recursive Self-Improvement for Robotic Manipulation",
+      "year": 2026,
+      "topic": "策略学习",
+      "status": "投稿中",
+      "venue": "OpenReview 文稿",
+      "role": "作者角色待补充",
+      "summary": "提出记忆驱动的机器人智能体自改进框架，将任务内工作记忆与跨任务的校准、修订和仲裁记忆结合，区分信息缺失与执行失败，迭代优化任务分解、阶段衔接及动作生成，并在学习策略、控制程序与可复用技能之间选择。",
+      "result": "稿件报告RMBench与RoboMemArena成功率分别为84.7%与56.6%，较所比较的最强基线分别提升1.4和7.6个百分点，并在两种策略骨干和真实机器人任务中验证；结果为投稿稿件中的实验口径。",
+      "url": "",
+      "project": "",
+      "video": "",
+      "image": "",
+      "evidence": "根据本人提供的匿名OpenReview投稿文稿整理；投稿状态由本人提供，作者次序尚未核实，公开论文链接待补充。原始PDF未上传。",
+      "methodImage": "assets/images/memrsi-method.png",
+      "methodCaption": "MemRSI · 图2 · 在线执行与离线分层记忆自改进框架",
+      "methodSource": "本人提供的OpenReview文稿，第3页"
+    },
+    {
       "id": "aligned4d",
       "short": "Aligned 4D Geometry Latents",
       "title": "Aligned 4D Geometry Latents for Embodied World Models",
