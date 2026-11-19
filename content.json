@@ -486,48 +486,6 @@
       "imageSource": "https://patents.google.com/patent/CN116968843A/zh",
       "summary": "通过平行连杆与独立驱动的机构配置，实现腿部运动解耦的双足机器人结构设计。",
       "url": "https://patents.google.com/patent/CN116968843B/zh"
-    },
-    {
-      "title": "一种基于装填布局树的在线三维装箱方法与装置",
-      "number": "ZL 2026 1 0179824.2",
-      "publication": "CN 121684216 B",
-      "date": "2026-05-19",
-      "summary": "围绕装填布局树开展在线三维装箱方法与装置设计。授权名称与信息依据本人提供的发明专利证书整理。",
-      "owner": "国防科技大学",
-      "role": "第七发明人",
-      "status": "证书记载已授权",
-      "image": "",
-      "imageCaption": "",
-      "imageSource": "",
-      "url": ""
-    },
-    {
-      "title": "结合物理约束的任意形状三维物品在线装箱方法与装置",
-      "number": "ZL 2026 1 0203973.8",
-      "publication": "CN 121684766 B",
-      "date": "2026-04-17",
-      "summary": "面向任意形状三维物品的在线装箱，将物理约束纳入方法与装置设计。授权名称与信息依据本人提供的发明专利证书整理。",
-      "owner": "国防科技大学",
-      "role": "第七发明人",
-      "status": "证书记载已授权",
-      "image": "",
-      "imageCaption": "",
-      "imageSource": "",
-      "url": ""
-    },
-    {
-      "title": "一种带有物理稳定性验证的在线三维装箱方法与装置",
-      "number": "ZL 2026 1 0219053.5",
-      "publication": "CN 121708255 B",
-      "date": "2026-04-21",
-      "summary": "围绕在线三维装箱中的物理稳定性验证开展方法与装置设计。授权名称与信息依据本人提供的发明专利证书整理。",
-      "owner": "国防科技大学",
-      "role": "第七发明人",
-      "status": "证书记载已授权",
-      "image": "",
-      "imageCaption": "",
-      "imageSource": "",
-      "url": ""
     }
   ],
   "applications": [
