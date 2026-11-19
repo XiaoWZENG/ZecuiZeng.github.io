@@ -334,27 +334,6 @@ window.PORTFOLIO = {
       "methodImage": "assets/images/brmdata-method.png",
       "methodCaption": "BRMData · 图1 · 双臂移动操作数据集任务总览",
       "methodSource": "2405.18860v2.pdf，第2页"
-    },
-    {
-      "id": "paodp",
-      "short": "PAO-DP",
-      "title": "Preferred-Action-Optimized Diffusion Policies for Offline Reinforcement Learning",
-      "year": 2024,
-      "topic": "策略学习",
-      "status": "预印本",
-      "venue": "arXiv · 2024",
-      "role": "合作作者",
-      "summary": "利用critic生成偏好动作，结合抗噪偏好优化训练扩散策略，改善离线强化学习中的策略表达与优化。",
-      "result": "在D4RL离线RL基准上评估，重点包括Kitchen与AntMaze稀疏奖励任务。",
-      "url": "https://arxiv.org/abs/2405.18729",
-      "project": "",
-      "video": "",
-      "image": "",
-      "evidence": "本地署名论文；公开预印本链接。",
-      "sourceFile": "2405.18729v1.pdf",
-      "methodImage": "assets/images/paodp-method.png",
-      "methodCaption": "PAO-DP · 算法1 · PAO-DP核心训练流程（原文算法）",
-      "methodSource": "2405.18729v1.pdf，第5页"
     }
   ],
   "patents": [
@@ -411,8 +390,7 @@ window.PORTFOLIO = {
         "robobpp",
         "etot",
         "mvsam3d",
-        "dream2reward",
-        "paodp"
+        "dream2reward"
       ],
       "evidence": "参与两项智能码垛团体标准起草：柔性码垛系统模块化设计，以及强化学习在线码垛算法框架与测试方法。具体署名与标准状态见下方行业影响力。",
       "url": "#industry",
