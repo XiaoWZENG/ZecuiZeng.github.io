@@ -6,6 +6,34 @@ window.PORTFOLIO = {
     "title": "京东探索研究院 · AI 研究员",
     "intro": "围绕 Real2Sim2Real 闭环，研究3D/4D世界表征、物理仿真与机器人学习；探索以 Agent Harness 组织任务规划、工具调用和执行反馈，连接模型能力与真实场景作业。",
     "bio": "曾任清华大学博士后／助理研究员、新加坡南洋理工大学访问学者。入选北京亦城人才专项计划，担任国家重点研发计划项目子课题负责人，参与科技创新2030“脑科学与类脑研究”重大项目课题及“两机”重大专项课题。",
+    "reviewerVenues": [
+      "CVPR",
+      "ECCV",
+      "ICRA",
+      "NeurIPS"
+    ],
+    "researchJourney": [
+      {
+        "title": "机器人结构与硬件",
+        "text": "围绕双足、轮足与三栖机器人开展结构与机构设计研究，积累机器人本体与硬件系统基础。代表性成果包括双足机器人、轮足式三栖机器人和解耦双足机器人3项授权发明专利，均为第二发明人。",
+        "href": "#patents"
+      },
+      {
+        "title": "交互感知与机器人控制",
+        "text": "从本体设计延伸至关节物体操作、模型预测控制与视触觉协同。DexSim2Real²发表于IEEE T-RO；ViTaMIn-B与BRMData分别围绕柔性触觉双臂操作和家庭场景移动操作数据开展研究，在真实机器人任务中进行验证。",
+        "href": "#publications"
+      },
+      {
+        "title": "世界模型与具身智能",
+        "text": "围绕Real2Sim2Real，将三维场景重建、数字孪生、操作策略与全身控制连接起来，研究几何引导动作学习、奖励模型和失败反思；探索Agent Harness对任务规划、技能调用与执行反馈的组织。",
+        "href": "#research"
+      },
+      {
+        "title": "应用验证与行业协作",
+        "text": "面向物流分拣、码垛和家庭服务场景开展研究。RoboBPP构建包含工业数据、物理仿真与机器人执行的装箱评测；参与柔性码垛系统模块化设计和强化学习在线码垛标准起草，将算法研究衔接到系统设计与测试规范。",
+        "href": "#industry"
+      }
+    ],
     "email": "",
     "github": "",
     "scholar": "https://scholar.google.com.hk/citations?user=WKrtHpIAAAAJ&hl=zh-CN"
