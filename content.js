@@ -154,7 +154,7 @@ window.PORTFOLIO = {
       "id": "robobpp",
       "short": "RoboBPP",
       "title": "RoboBPP: Benchmarking Robotic Online Bin Packing with Physics-based Simulation",
-      "year": 2025,
+      "year": 2026,
       "topic": "物流与码垛",
       "status": "已接收",
       "venue": "IJRR · 2026（已接收）",
