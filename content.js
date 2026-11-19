@@ -72,11 +72,11 @@ window.PORTFOLIO = {
       "year": 2026,
       "status": "投稿中",
       "venue": "OpenReview 文稿",
-      "role": "作者角色待补充",
+      "role": "Project Lead",
       "project": "",
       "video": "",
       "image": "",
-      "evidence": "根据本人提供的匿名投稿稿件整理；投稿状态由本人提供，作者次序尚未核实。原始PDF与补充材料未上传。 暂未提供可确认的公开论文链接。",
+      "evidence": "根据本人提供的匿名投稿稿件整理；投稿状态与Project Lead角色由本人确认。原始PDF与补充材料未上传，公开论文链接待补充。",
       "methodImage": "assets/images/aligned4d-method.png"
     },
     {
@@ -92,11 +92,11 @@ window.PORTFOLIO = {
       "year": 2026,
       "status": "投稿中",
       "venue": "OpenReview 文稿",
-      "role": "作者角色待补充",
+      "role": "共同通讯作者",
       "project": "",
       "video": "",
       "image": "",
-      "evidence": "根据本人提供的匿名投稿稿件整理；投稿状态由本人提供，作者次序尚未核实。原始PDF与补充材料未上传。 OpenReview链接的未登录访问可用性尚未确认。",
+      "evidence": "根据本人提供的匿名投稿稿件整理；投稿状态与共同通讯作者身份由本人确认。原始PDF与补充材料未上传。OpenReview链接的未登录访问可用性尚未确认。",
       "methodImage": "assets/images/bodyworld-method.png"
     },
     {
@@ -112,11 +112,11 @@ window.PORTFOLIO = {
       "year": 2026,
       "status": "投稿中",
       "venue": "OpenReview 文稿",
-      "role": "作者角色待补充",
+      "role": "共同通讯作者",
       "project": "",
       "video": "",
       "image": "",
-      "evidence": "根据本人提供的匿名投稿稿件整理；投稿状态由本人提供，作者次序尚未核实。原始PDF与补充材料未上传。 暂未提供可确认的公开论文链接。",
+      "evidence": "根据本人提供的匿名投稿稿件整理；投稿状态与共同通讯作者身份由本人确认。原始PDF与补充材料未上传，公开论文链接待补充。",
       "methodImage": "assets/images/stereonav-method.png"
     },
     {
